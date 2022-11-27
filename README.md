@@ -12,10 +12,12 @@
   * [Questions](#questions)
   
   ## Installation 
-  npm i then run "npm start" this can be viewed through the deployed application, or ran locally. To run locally clone repo.
+  npm i then run "npm start" this can be viewed through the deployed application, or ran locally. To run locally clone repo. run on local servesr 3000
   ## Usage 
   deployed app
+  https://jate-text-editor-x.herokuapp.com/ (heroku isn't working)
   ![image](https://user-images.githubusercontent.com/51921860/204117232-081da19f-e5f8-49bf-94a3-fc37499cb2ff.png)
+  
 
   ## License 
   This project is license under Open
